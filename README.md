@@ -51,7 +51,6 @@ pages
 
 ## Respaldos en GitHub
 
-## Preparar el proyecto que usaremos a lo largo del curso
 
 # Angular
 
